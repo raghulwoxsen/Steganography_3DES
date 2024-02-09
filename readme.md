@@ -58,7 +58,7 @@ pip install cryptography stegano
 
 - Raghul S
 
-Feel free to modify and enhance the code according to your needs. For any questions or issues, please contact [Your Email].
+Feel free to modify and enhance the code according to your needs. For any questions or issues, please contact [raghulsbiruntha@gmail.com].
 
 ---
 
